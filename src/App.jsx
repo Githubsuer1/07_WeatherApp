@@ -1,7 +1,7 @@
 import { useState } from "react";
 import SearchBar from "./components/SearchBar";
 import useWeather from "./hooks/useWeather";
-import WeatherCard from "./components/WeatherCard";
+import WeatherCard from "./components/Weathercard";
 import EmptyState from "./components/EmptyState";
 import ErrorMessage from "./components/Errormsg";
 import WeatherSkeleton from "./components/WeatherSkeleton";
